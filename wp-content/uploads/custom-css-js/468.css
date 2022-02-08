@@ -1,0 +1,37 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Añade aquí tu código CSS.
+
+Por ejemplo:
+.ejemplo {
+    color: red;
+}
+
+Para mejorar tu conocimiento sobre CSS knowledge echa un vistazo a http://www.w3schools.com/css/css_syntax.asp
+
+Fin del comentario */ 
+
+
+.box-header-nav .main-menu .sub-menu>.menu-item>a{
+  color:white;
+  background-color: #0D2690;
+}
+
+
+.box-header-nav .main-menu .sub-menu>.menu-item>a:hover{
+  color:#F64D2B;
+  background-color: #0D2690;
+}
+
+#mysticky-nav.wrapfixed ul li.menu-item a{
+  color:white;
+  background-color: #0D2690;
+}
+
+
+
+#mysticky-nav.wrapfixed ul li.menu-item a:hover{
+ color:#F64D2B;
+  background-color: #0D2690;
+}</style>
+<!-- end Simple Custom CSS and JS -->
